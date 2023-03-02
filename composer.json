@@ -1,0 +1,17 @@
+{
+    "name": "yagya/php_rest",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "yagya adhikari",
+            "email": "yagyaadhikari02@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.4"
+    }
+}
